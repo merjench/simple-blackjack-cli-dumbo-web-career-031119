@@ -22,7 +22,7 @@ def get_user_input
   # code #get_user_input here
    gets.strip.chomp
    #.strip removes whitespace around the sting  
-   #.chomp removes all 
+   #.chomp removes all newlines from the string
 end
 
 def end_game
