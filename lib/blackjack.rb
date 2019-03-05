@@ -45,7 +45,6 @@ def hit? (current_card_total)
   end
     card_total
   end 
-end
   
 end
 
