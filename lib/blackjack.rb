@@ -44,6 +44,7 @@ def hit? (current_card_total)
     card_total += deal_card
   end
     card_total
+  end 
 end
   
 end
