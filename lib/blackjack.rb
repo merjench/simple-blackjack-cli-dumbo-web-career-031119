@@ -25,9 +25,9 @@ def get_user_input
    #.chomp removes all newlines from the string
 end
 
-def end_game
+def end_game (card_total)
   # code #end_game here
-  puts "Sorry, you hit #{display_card_total}. Thanks for playing!"
+  puts "Sorry, you hit #{card_total}. Thanks for playing!"
 end
 
 def initial_round
