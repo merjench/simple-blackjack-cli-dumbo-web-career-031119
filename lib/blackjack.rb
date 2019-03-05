@@ -1,5 +1,6 @@
-def welcome
+def welcome 
   # code #welcome here
+  puts "Welcome "
   
 end
 
