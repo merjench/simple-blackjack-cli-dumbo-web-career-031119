@@ -59,5 +59,8 @@ end
 
 def runner
   # code runner here
+  welcome 
+  hit?
+  display_card_total
 end
     
